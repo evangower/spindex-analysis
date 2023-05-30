@@ -1,1 +1,1 @@
-# spindex-analysis
+# S&P Index Analysis
